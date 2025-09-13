@@ -2,5 +2,5 @@
 2. `docker run -it --rm  kotlin-template`
 
 # gradle
-`./gradlew build`
-`./gradlew test
+- `./gradlew build`
+- `./gradlew test`
